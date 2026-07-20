@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0126-word-ladder-ii/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
