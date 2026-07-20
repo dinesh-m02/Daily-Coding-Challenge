@@ -49,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0115-distinct-subsequences/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0115-distinct-subsequences/) | Hard |
 <!---LeetCode Topics End-->
