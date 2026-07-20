@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0134-gas-station/) | Medium |
 | [0704-binary-search](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,4 +136,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0133-clone-graph/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 <!---LeetCode Topics End-->
