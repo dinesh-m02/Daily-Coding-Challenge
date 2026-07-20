@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +103,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
