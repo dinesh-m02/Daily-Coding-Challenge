@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -26,12 +27,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0112-path-sum/) | Easy |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -40,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -49,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
