@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0115-distinct-subsequences/) | Hard |
+| [0125-valid-palindrome](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
