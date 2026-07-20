@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0130-surrounded-regions/) | Medium |
+| [0134-gas-station](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0134-gas-station/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0134-gas-station](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0134-gas-station/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
