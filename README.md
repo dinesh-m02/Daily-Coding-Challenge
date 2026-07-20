@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
