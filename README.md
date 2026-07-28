@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0035-search-insert-position/) | Easy |
+| [0075-sort-colors](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0120-triangle/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0011-container-with-most-water/) | Medium |
+| [0075-sort-colors](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0414-third-maximum-number/) | Easy |
