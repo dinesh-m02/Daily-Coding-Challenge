@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -200,4 +202,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
