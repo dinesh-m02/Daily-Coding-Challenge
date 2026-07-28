@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0137-single-number-ii/) | Medium |
+| [0198-house-robber](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0198-house-robber/) | Medium |
 | [0260-single-number-iii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0198-house-robber](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0198-house-robber/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
