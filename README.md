@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
@@ -216,4 +217,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
