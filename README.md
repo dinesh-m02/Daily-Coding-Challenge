@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1323-maximum-69-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1323-maximum-69-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
