@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0134-gas-station/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1323-maximum-69-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1323-maximum-69-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0509-fibonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1323-maximum-69-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0414-third-maximum-number/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -238,4 +242,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 <!---LeetCode Topics End-->
