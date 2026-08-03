@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0392-is-subsequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0709-to-lower-case](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0709-to-lower-case/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
