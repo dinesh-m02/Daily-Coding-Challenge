@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0137-single-number-ii/) | Medium |
 | [0198-house-robber](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0198-house-robber/) | Medium |
+| [0217-contains-duplicate](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0260-single-number-iii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0133-clone-graph/) | Medium |
+| [0217-contains-duplicate](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
+| [0217-contains-duplicate](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0414-third-maximum-number/) | Easy |
