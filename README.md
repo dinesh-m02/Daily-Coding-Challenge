@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0509-fibonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1323-maximum-69-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
