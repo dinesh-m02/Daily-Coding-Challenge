@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0130-surrounded-regions](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0133-clone-graph/) | Medium |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
