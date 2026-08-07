@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0075-sort-colors](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0127-word-ladder/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0133-clone-graph/) | Medium |
+| [0141-linked-list-cycle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
@@ -260,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
