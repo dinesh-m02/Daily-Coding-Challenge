@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0812-largest-triangle-area](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0509-fibonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
+| [0812-largest-triangle-area](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -305,4 +308,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1122-relative-sort-array/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
