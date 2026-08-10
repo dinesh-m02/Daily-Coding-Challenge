@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0414-third-maximum-number/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0130-surrounded-regions/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,4 +285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 <!---LeetCode Topics End-->
