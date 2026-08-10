@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0704-binary-search/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0709-to-lower-case/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
