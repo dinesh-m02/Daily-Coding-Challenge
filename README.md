@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0392-is-subsequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0504-base-7](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0709-to-lower-case/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0504-base-7](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
