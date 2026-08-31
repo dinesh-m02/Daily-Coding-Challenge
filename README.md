@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0504-base-7](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
 | [0509-fibonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1137-n-th-tribonacci-number/) | Easy |
