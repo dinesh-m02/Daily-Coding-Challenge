@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
 | [0115-distinct-subsequences](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
 | [0231-power-of-two](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -323,4 +325,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
