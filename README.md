@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0113-path-sum-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0401-binary-watch](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0401-binary-watch/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
+| [0401-binary-watch](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1009-complement-of-base-10-integer/) | Easy |
