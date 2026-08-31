@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0130-surrounded-regions/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 ## Counting Sort
