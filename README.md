@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0130-surrounded-regions/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
