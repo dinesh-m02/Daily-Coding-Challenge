@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
