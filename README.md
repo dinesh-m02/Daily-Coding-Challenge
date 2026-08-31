@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
 | [0113-path-sum-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
+| [0089-gray-code](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0089-gray-code](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
 | [0136-single-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0190-reverse-bits/) | Easy |
