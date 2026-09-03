@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
 | [0089-gray-code](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
 | [0231-power-of-two](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
@@ -392,4 +394,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0796-rotate-string/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
