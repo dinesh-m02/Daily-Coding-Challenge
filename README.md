@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0812-largest-triangle-area](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0812-largest-triangle-area/) | Easy |
+| [0832-flipping-an-image](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0832-flipping-an-image](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0130-surrounded-regions/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0832-flipping-an-image](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -283,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0401-binary-watch](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0401-binary-watch/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
+| [0832-flipping-an-image](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -351,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0054-spiral-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0832-flipping-an-image](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0867-transpose-matrix/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
