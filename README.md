@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0171-excel-sheet-column-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0392-is-subsequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0504-base-7](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0504-base-7/) | Easy |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0069-sqrtx/) | Easy |
 | [0089-gray-code](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0089-gray-code/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0231-power-of-two](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0292-nim-game/) | Easy |
