@@ -133,10 +133,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0392-is-subsequence/) | Easy |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0231-power-of-two](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/dinesh-m02/Daily-Coding-Challenge/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
